@@ -2,7 +2,7 @@
 
 ![Welcome Banner](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
 
-I'm a passionate software engineer and aspiring QA trainer. I love building software, learning new technologies, and sharing knowledge with others. Here's a little about me:
+I'm a passionate software developer. I love building software, learning new technologies, and sharing knowledge with others. Here's a little about me:
 
 ## 🚀 About Me
 - 🔭 I’m currently working on QA tasks at Staryo
