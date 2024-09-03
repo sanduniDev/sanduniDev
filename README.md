@@ -2,7 +2,7 @@
 
 ![Welcome Banner](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
 
-I'm a passionate software engineer and aspiring QA intern. I love building software, learning new technologies, and sharing knowledge with others. Here's a little about me:
+I'm a passionate software engineer and aspiring QA trainer. I love building software, learning new technologies, and sharing knowledge with others. Here's a little about me:
 
 ## 🚀 About Me
 - 🔭 I’m currently working on QA tasks at Staryo
@@ -63,10 +63,10 @@ I'm a passionate software engineer and aspiring QA intern. I love building softw
 ![Oracle VM VirtualBox](https://img.shields.io/badge/-Oracle%20VM%20VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
 ## 📈 GitHub Stats
-![Sanduni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Sanduni's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanduniDev&show_icons=true&theme=radical)
 
 ## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanduniDev&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
 - LinkedIn: [Sanduni Sathsarani](https://www.linkedin.com/in/h-e-s-sathsarani/)
