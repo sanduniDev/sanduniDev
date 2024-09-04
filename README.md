@@ -73,6 +73,7 @@ I'm a passionate software developer. I love building software, learning new tech
 
 ## 📝 Recent Blog Posts
 - [A Comparative Analysis of AWS EC2 and Microsoft Azure Virtual Machines](https://medium.com/@sanduni.s/a-comparative-analysis-of-aws-ec2-and-microsoft-azure-virtual-machines-499d12b6d174)
+- [Transforming Agile Project Management with Advanced User Story Generation](https://medium.com/@sanduni.s/transforming-agile-project-management-with-advanced-user-story-generation-8c35f15061ff)
 
 ---
 
