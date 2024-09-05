@@ -6,11 +6,11 @@ I'm a passionate software developer. I love building software, learning new tech
 
 ## 🚀 About Me
 - 🔭 I’m currently working on QA tasks at Staryo
-- 🌱 I’m learning Selenium and automation testing
-- 👯 I’m looking to collaborate on open-source projects related to quality assurance
-- 🤔 I’m looking for help with advanced React and Next.js concepts
-- 💬 Ask me about JavaScript, React, or anything tech-related
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/h-e-s-sathsarani/)
+- 🌱 I’m learning Kubernetes and DevOps practices
+- 👯 I’m looking to collaborate on open-source projects related to DevOps and quality assurance
+- 🤔 I’m looking for help with advanced React, Next.js, and DevOps concepts
+- 💬 Ask me about JavaScript, React, DevOps, or anything tech-related
+- 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I'm also into pixel art and animation!
 
 ## 🛠️ Skills
