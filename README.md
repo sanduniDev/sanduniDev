@@ -1,6 +1,8 @@
 # Hi there, I'm Sanduni Sathsarani! 👋
 
-![Welcome Banner](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/37484df5-b7be-463b-a1a9-b0ae810fcde1" width="280" height="220" alt="description">   
+</p>
 
 I'm a passionate software developer. I love building software, learning new technologies, and sharing knowledge with others. Here's a little about me:
 
