@@ -1,7 +1,7 @@
 # Hi there, I'm Sanduni Sathsarani! 👋
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/37484df5-b7be-463b-a1a9-b0ae810fcde1" width="500" height="400" alt="description">   
+    <img src="https://github.com/user-attachments/assets/37484df5-b7be-463b-a1a9-b0ae810fcde1" width="500" height="400" alt="Sanduni Sathsarani Profile Image">   
 </p>
 
 I'm a passionate software developer. I love building software, learning new technologies, and sharing knowledge with others. Here's a little about me:
@@ -12,7 +12,7 @@ I'm a passionate software developer. I love building software, learning new tech
 - 👯 I’m looking to collaborate on open-source projects related to DevOps and quality assurance
 - 🤔 I’m looking for help with advanced React, Next.js, and DevOps concepts
 - 💬 Ask me about JavaScript, React, DevOps, or anything tech-related
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/h-e-s-sathsarani/)
 - ⚡ Fun fact: I'm also into pixel art and animation!
 
 ## 🛠️ Skills
@@ -65,10 +65,13 @@ I'm a passionate software developer. I love building software, learning new tech
 ![Oracle VM VirtualBox](https://img.shields.io/badge/-Oracle%20VM%20VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
 ## 📈 GitHub Stats
-![Sanduni's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanduniDev&show_icons=true&theme=radical)
+![Sanduni's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanduniDev&show_icons=true&theme=radical&count_private=true&cache_bust=20250416)
 
 ## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanduniDev&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanduniDev&layout=compact&theme=radical&cache_bust=20250416)
+
+## 🏆 Profile Grade
+![Profile Grade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanduniDev&theme=radical&cache_bust=20250416)
 
 ## 📫 Let's Connect!
 - LinkedIn: [Sanduni Sathsarani](https://www.linkedin.com/in/h-e-s-sathsarani/)
@@ -80,4 +83,3 @@ I'm a passionate software developer. I love building software, learning new tech
 ---
 
 ⭐️ From [Sanduni Sathsarani](https://github.com/sanduniDev)
-
