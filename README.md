@@ -64,14 +64,8 @@ I'm a passionate software developer. I love building software, learning new tech
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Oracle VM VirtualBox](https://img.shields.io/badge/-Oracle%20VM%20VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
-## 📈 GitHub Stats
-![Sanduni's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanduniDev&show_icons=true&theme=radical&count_private=true&cache_bust=20250416)
-
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanduniDev&layout=compact&theme=radical&cache_bust=20250416)
-
-## 🏆 Profile Grade
-![Profile Grade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanduniDev&theme=radical&cache_bust=20250416)
 
 ## 📫 Let's Connect!
 - LinkedIn: [Sanduni Sathsarani](https://www.linkedin.com/in/h-e-s-sathsarani/)
